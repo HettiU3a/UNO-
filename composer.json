@@ -1,0 +1,21 @@
+{
+    "name": "uno--hack/uno--hack-mod-apk-get-unlimited-tokens-gold",
+    "description": "UNO! Hack Mod APK Get Unlimited Tokens Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK UNO!",
+            "homepage": "http://bit.ly/2Sd6zCs",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
